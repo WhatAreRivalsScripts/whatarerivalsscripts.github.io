@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://whatarerivalsscripts.github.io/sitemap.xml
+Sitemap: https://whatarerivalsscripts.github.io/6595814_3.xml
